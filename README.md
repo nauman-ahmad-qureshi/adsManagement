@@ -37,6 +37,18 @@ https://facebook.github.io/react-native/docs/getting-started.html
 >cd projectfolder
 >react-native run-android
 
+###Setup Paths
+
+####Image processing path
+
+/app/components/AddAd/AddAd.js file line no 87 adjust "http://192.168.1.13/RNative/upload.php" to whatever path you are going to have by placing the upload.php file
+
+####Image listing path
+
+/app/components/AdsList/AdsList.js file line no 60 adjust "http://192.168.1.13/RNative/imageDir/" accordingly as well for listing ads image
+
+
+
 Note- 
 if there is still errors running the app please refer to react native onsite documentation for setting up development environment for the desired platform
 
