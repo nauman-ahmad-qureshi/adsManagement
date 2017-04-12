@@ -1,2 +1,46 @@
 # adsManagement
-the react native base app beta to manage ads
+
+Its RN Ads management app, for now its it beta version.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Installing
+
+#### Install Chocolatey
+
+open powershell as administrator
+>powershell Set-ExecutionPolicy RemoteSigned
+>iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+
+#### Install Node.js and Python2 via Chocolatey
+
+>choco install nodejs.install 
+>choco install python2
+
+#### Install the React Native command line interface
+
+>npm install -g react-native-cli 
+
+#### Install Android Studio
+Just use default option set 
+
+#### Environment variables
+Set up the environment variables
+
+#### Setup VM
+https://facebook.github.io/react-native/docs/getting-started.html
+
+## Authors
+
+* **Nauman Ahmed** 
+
+## License
+
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* The DatumSquare
+
