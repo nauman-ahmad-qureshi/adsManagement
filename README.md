@@ -32,6 +32,12 @@ Set up the environment variables
 #### Setup VM
 https://facebook.github.io/react-native/docs/getting-started.html
 
+#### To launch the app/project on your Android emulator/real device 
+
+>cd projectfolder
+>react-native run-android
+
+
 ## Authors
 
 * **Nauman Ahmed** 
