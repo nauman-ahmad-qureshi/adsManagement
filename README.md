@@ -49,7 +49,7 @@ https://facebook.github.io/react-native/docs/getting-started.html
 
 
 
-Note- 
+## Note 
 if there is still errors running the app please refer to react native onsite documentation for setting up development environment for the desired platform
 
 
