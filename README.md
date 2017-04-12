@@ -6,7 +6,7 @@ Its RN Ads management app, for now its it beta version.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Installing
+### Installing Windows
 
 #### Install Chocolatey
 
@@ -37,7 +37,11 @@ https://facebook.github.io/react-native/docs/getting-started.html
 >cd projectfolder
 >react-native run-android
 
+Note- 
+if there is still errors running the app please refer to react native onsite documentation for setting up development environment for the desired platform
 
+
+https://facebook.github.io/react-native/docs/getting-started.html
 ## Authors
 
 * **Nauman Ahmed** 
