@@ -6,7 +6,7 @@ Its RN Ads management app, for now its it beta version.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Installing Windows
+### Setting up development environment Windows
 
 #### Install Chocolatey
 
